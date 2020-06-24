@@ -1,5 +1,3 @@
-# scanner_name_-_num
-
 import java.util.Scanner;
 
 public class scannerInput{
