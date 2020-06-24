@@ -9,9 +9,7 @@ public class scannerInput{
 			System.out.print("NAME : ");
 			name[i] = sc.next();
 			System.out.print("NUM  : ");
-			//num[i] = Integer.parseInt(sc.nextLine());
 			num[i] = sc.nextInt();
-			//sc.nextLine();
 		}
 		for(int i=0; i<3; i++){
 			System.out.println(name[i]+" "+num[i]);
